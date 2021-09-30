@@ -1,0 +1,387 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - string:
+          description: "bitbucket"
+          id: "bitbucket"
+          scope: GLOBAL
+          secret: "{AQAAABAAAAAw6QL78bg99kNJk/d+42ymeQfCssvR6zLIOIRzHJHOShk5UZ3/CqkE595tBggYsXo6B4iOg/JjpBHdo9qpJ/r5Qg==}"
+      - usernamePassword:
+          id: "aalvarez-bitbucket"
+          password: "{AQAAABAAAAAwPCxvv2F8mp6CMZASPRKcT2VQAP2ddO/icDWugRWmyOgJ5XO0PgH1e6vzGuVqjZIGPxgayGthj6ffHGdUGEBn6g==}"
+          scope: GLOBAL
+          username: "support-team"
+          usernameSecret: true
+      - string:
+          description: "mcardenas"
+          id: "313c3658-4a25-4093-84a1-18caccf4c774"
+          scope: GLOBAL
+          secret: "{AQAAABAAAAAwgj8IY7otOuNZBr8i3TMVi6QEomg93u39UvPYlPM+gHrv95ngPeT4+pY9EzSPTKnF2P9Pze2NgUUpf804v/q6Dw==}"
+      - usernamePassword:
+          description: "gh_pat_tc_mcardenas"
+          id: "589ed70c-96e3-403b-8a32-e9f142351f41"
+          password: "{AQAAABAAAAAwxyiQe73jn/4bQD5JdXoipWj7uGWSqAFC8mf9p1gF9t4amnKS3JXY/eXVJh8yj8DSyLg61Giefb2mcKPODa67ug==}"
+          scope: GLOBAL
+          username: "mcardenas_pat"
+          usernameSecret: true
+      - gitHubApp:
+          appID: "139892"
+          description: "139892"
+          id: "139892"
+          privateKey: "{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}"
+jenkins:
+  agentProtocols:
+  - "Diagnostic-Ping"
+  - "JNLP4-connect"
+  - "OperationsCenter2"
+  - "Ping"
+  authorizationStrategy: "cloudBeesRoleBasedAccessControl"
+  clouds:
+  - kubernetes:
+      containerCap: 10
+      containerCapStr: "10"
+      name: "kubernetes2"
+      templates:
+      - containers:
+        - args: "9999999"
+          command: "sleep"
+          image: "jenkins/inbound-agent"
+          livenessProbe:
+            failureThreshold: 0
+            initialDelaySeconds: 0
+            periodSeconds: 0
+            successThreshold: 0
+            timeoutSeconds: 0
+          name: "test2"
+          workingDir: "/home/jenkins/agent"
+        id: "0026fbf9-97b6-4822-95ca-6b858831c22d"
+        label: "test2"
+        name: "test2"
+        yamlMergeStrategy: "override"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: true
+  disableRememberMe: false
+  labelAtoms:
+  - name: "abhi.test"
+  - name: "agent"
+  - name: "ath"
+  - name: "cloudbees-java"
+  - name: "default-fbelzunc"
+  - name: "default-java"
+  - name: "dind-aws-agent"
+  - name: "docker-agent-gpg"
+  - name: "duemir"
+  - name: "fbelzunc-123456"
+  - name: "fbelzunc-cloudbees-core-agent-inheritance-yaml"
+  - name: "fbelzunc-cloudbees-core-agent-podtemplate"
+  - name: "fbelzunc-cloudbees-core-agent-yaml"
+  - name: "fbelzunc-core-agent"
+  - name: "fbelzunc-default-jnlp"
+  - name: "fbelzunc-failure"
+  - name: "fbelzunc-maven"
+  - name: "felix-testing-cloud-123456789"
+  - name: "felix-testing-cloud-12345678910"
+  - name: "jdk12"
+  - name: "jmuro-zd189344"
+  - name: "jperez-with-secret"
+  - name: "jperezdind_label"
+  - name: "kubectl-k8s"
+  - name: "master"
+  - name: "maven-jdk11"
+  - name: "mylabel-jperez"
+  - name: "ndots"
+  - name: "pierre"
+  - name: "standard"
+  - name: "test"
+  - name: "test-cloudbees-agent"
+  - name: "test-mcb"
+  - name: "test2"
+  - name: "testMaven"
+  - name: "testing-podtemplate-fbelzunc"
+  - name: "zd175495"
+  - name: "zd66379"
+  - name: "zd79063"
+  markupFormatter:
+    rawHtml:
+      disableSyntaxHighlighting: false
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 1
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm: "operationsCenter"
+  slaveAgentPort: 50000
+  systemMessage: "Shared System Message"
+  updateCenter:
+    sites:
+    - id: "core-mm"
+      url: "https://jenkins-updates.cloudbees.com/update-center/core-mm/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+beekeeper:
+  enabled: false
+  securityWarnings:
+    enabledForCore: true
+    enabledForPlugins: true
+  upgrades:
+    autoDowngradePlugins: false
+    autoUpgradePlugins: false
+notificationConfiguration:
+  enabled: false
+kube:
+  podTemplatesConfiguration:
+    templates:
+    - containers:
+      - alwaysPullImage: true
+        args: "9999999"
+        command: "sleep"
+        image: "jenkins/inbound-agent"
+        livenessProbe:
+          failureThreshold: 0
+          initialDelaySeconds: 0
+          periodSeconds: 0
+          successThreshold: 0
+          timeoutSeconds: 0
+        name: "test"
+        workingDir: "/home/jenkins/agent"
+      id: "3fdf8b79-d701-4722-af2e-9d28a7164f7b"
+      label: "test"
+      name: "test"
+      yamlMergeStrategy: "override"
+security:
+  anonymizeSupportBundle:
+    enabled: false
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  envInject:
+    enableLoadingFromMaster: false
+    enablePermissions: false
+    hideInjectedVars: false
+  globalJobDslSecurityConfiguration:
+    useScriptSecurity: true
+  sSHD:
+    port: -1
+unclassified:
+  amazonSNSNotifier:
+    defaultLocalCredential: false
+    defaultMessageTemplate: "^${BUILD_URL}"
+    defaultNotifyOnConsecutiveSuccesses: true
+    defaultSendNotificationOnStart: false
+  appInsightsGlobalConfig:
+    appInsightsEnabled: true
+  artifactManager:
+    artifactManagerFactories:
+    - "jSync"
+  artifactoryBuilder:
+    jfrogPipelinesServer:
+      bypassProxy: false
+      connectionRetries: 3
+      credentialsConfig:
+        ignoreCredentialPluginDisabled: true
+        overridingCredentials: false
+        password: "{AQAAABAAAAAQrwMPp+yFWfs9JlMspBo5faFIwZ4QzqmiTZxrxcYO7y0=}"
+        username: "****"
+      timeout: 300
+    useCredentialsPlugin: false
+  audit-trail:
+    logBuildCause: true
+    pattern: ".*/(?:configSubmit|doDelete|postBuildResult|enable|disable|cancelQueue|stop|toggleLogKeep|doWipeOutWorkspace|createItem|createView|toggleOffline|cancelQuietDown|quietDown|restart|exit|safeExit)/?.*"
+  badgePlugin:
+    disableFormatHTML: false
+  bitbucketEndpointConfiguration:
+    endpoints:
+    - bitbucketServerEndpoint:
+        credentialsId: "aalvarez-bitbucket"
+        displayName: "bitbucket"
+        manageHooks: true
+        serverUrl: "https://bitbucket.beescloud.com"
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildFailureAnalyzer:
+    doNotAnalyzeAbortedJob: false
+    gerritTriggerEnabled: true
+    globalEnabled: true
+    graphsEnabled: false
+    knowledgeBase: "localFile"
+    maxLogSize: 0
+    noCausesEnabled: true
+    noCausesMessage: "No problems were identified. If you know why this problem occurred,\
+      \ please add a suitable Cause for it."
+    nrOfScanThreads: 3
+    slackFailureCategories: "ALL"
+    slackNotifEnabled: false
+    testResultParsingEnabled: false
+  buildStepOperation:
+    enabled: false
+  cloudbeesPlatform:
+    server:
+      apiUrl: "https://flow-server.cje-support-general:8443/"
+      ignoreSslConnectionErrors: true
+    url: "https://core.gcp.support.beescloud.com/"
+  detectGlobalConfig:
+    blackDuckTimeout: 120
+    downloadStrategy: "scriptOrJarDownloadStrategy"
+    trustBlackDuckCertificates: false
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    mailAccount:
+      smtpPassword: "{AQAAABAAAAAQKI5p6UQ22CO5B03ZH6komk74ipmb1y01VKphVsK6V2g=}"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  experimentalPlugins:
+    enabled: false
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "https://core.gcp.support.beescloud.com/aalvarez/github-webhook/"
+  gitSCM:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  githubPullRequests:
+    actualiseOnFactory: false
+  globalSettings:
+    failOnCorrupt: false
+    noAuthors: false
+    quietMode: false
+  hAGlobalConfiguration:
+    bindPort: 0
+    diagnosticPort: 0
+    portRange: 0
+  ivyBuildTrigger:
+    extendedVersionMatching: false
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "address not configured yet <nobody@nowhere>"
+    url: "https://core.gcp.support.beescloud.com/aalvarez/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  mavenModuleSet:
+    localRepository: "default"
+  naginatorPublisher:
+    regexpTimeoutMs: 30000
+  operationsCenterRootAction:
+    connectionDetails: "----- BEGIN CONNECTION DETAILS -----\nH4sIAAAAAAAAAB2OSw7CMAwF75I17k8pqL0GJ3Act1CiJnKSVgJxdyy282ak9zGr4F7MbBxe+2Ec\r\
+      \nO/DTQGDRenCjHWDpnJ9ouS06m4t5enX7DhDDgcJvRVWCskcpaW5b2iI1tDHkmlKUAivvLBiafCgP\r\
+      \nNReWJkTC8Fdb7U9290gv1hdFKn9/AmhU1ZQAAAA=\r\n----- END CONNECTION DETAILS -----\n"
+  pluginImpl:
+    enableCredentialsFromNode: false
+  pollSCM:
+    pollingThreadCount: 10
+  repository-connector:
+    repositories:
+    - id: "central"
+      releaseRepository:
+        checksum: "warn"
+        update: "daily"
+      snapshotRepository:
+        checksum: "warn"
+        update: "daily"
+      url: "https://repo1.maven.org/maven2"
+  resourceRoot:
+    url: "https://resources.core.gcp.support.beescloud.com/aalvarez/"
+  robotConfig:
+    buildsToShowInResultsColumn: 15
+    robotResultsColumnEnabled: true
+    xAxisLabelFormat: "#$build"
+  schedulerPreference:
+    preferEvenload: false
+  splunkJenkinsInstallation:
+    enabled: false
+    globalPipelineFilter: true
+    maxEventsBatchSize: 262144
+    metadataHost: "core.gcp.support.beescloud.com"
+    port: 8088
+    rawEventEnabled: true
+    retriesOnError: 3
+    scriptContent: |-
+      //send job metadata and junit reports with page size set to 50 (each event contains max 50 test cases)
+      splunkins.sendTestReport(50)
+      //send coverage, each event contains max 50 class metrics
+      splunkins.sendCoverageReport(50)
+      //send all logs from workspace to splunk, with each file size limits to 10MB
+      splunkins.archive("**/*.log", null, false, "10MB")
+
+      //end
+    useSSL: true
+  sshPublisher:
+    commonConfig:
+      disableAllExec: false
+      encryptedPassphrase: "{AQAAABAAAAAQzefGQtkNnTza2EoPBlcoauVQzJbELRr9pVstPLQZjmE=}"
+  stashBranchParameterDefinition:
+    password: "****"
+  stashBuildTrigger:
+    enablePipelineSupport: false
+  usageStatisticsCloudBees:
+    usageStatisticsCollected: true
+  validatedMergeGlobalConfiguration:
+    preferHttp: false
+    pushFromMaster: false
+  violationsToBitbucketServerGlobalConfiguration:
+    minSeverity: INFO
+tool:
+  cloudbeesPluginUsageAnalyzer:
+    enabled: true
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  maven:
+    installations:
+    - name: "maven-3-8"
+      properties:
+      - installSource:
+          installers:
+          - maven:
+              id: "3.8.1"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
+  pipelineMaven:
+    triggerDownstreamUponResultAborted: false
+    triggerDownstreamUponResultFailure: false
+    triggerDownstreamUponResultNotBuilt: false
+    triggerDownstreamUponResultSuccess: true
+    triggerDownstreamUponResultUnstable: false
+  powerShellInstallation:
+    installations:
+    - home: "powershell.exe"
+      name: "DefaultWindows"
+    - home: "pwsh"
+      name: "DefaultLinux"
